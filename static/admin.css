@@ -1,0 +1,30 @@
+/**
+ * style for button "Pick Color for Post/Page Title"
+ *
+ */
+#container-nnColorfulPosts-set-post-title-color {
+  position: relative;
+  z-index: 8880;
+}
+
+#container-nnColorfulPosts-set-post-title-color {
+  height: 20px;
+}
+
+#container-nnColorfulPosts-set-post-title-color .wp-picker-holder {
+  position: absolute;
+}
+
+/**
+ * style for plugin homepage
+ *
+ */
+#container-nnColorfulPosts-options {
+  padding-top: 10px;
+}
+
+#container-nnColorfulPosts-options .notice-message {
+  line-height: 18px;
+  padding-top: 6px;
+  color: #777;
+}
