@@ -1,10 +1,10 @@
 === Colorful Post ===
-Contributors: anylookup
-Donate link: http://www.anylookup.com
-Tags: colorful posts, color title, title, post title
+Contributors: Jason Zhao
+Donate link: http://psd.to-html.com
+Tags: post, posts, plugin, widget, admin, colorful posts, color title, title, post title
 Requires at least: 3.3
 Tested up to: 4.3
-Stable tag: 1.0.0
+Stable tag: 1.0.1
 License: GPLv2 or later
 
 A simple 'post title color' plugin that lets you select the color of your post title manually.
@@ -41,8 +41,15 @@ It's just under the post title in post editor
 
 
 == Changelog ==
+= 1.0.2 =
+* 2015-09-05
+* Updated readme text
 
-= 1.0 =
+= 1.0.1 =
+* 2015-08-17
+* Fixed various text inaccuracies
+
+= 1.0.0 =
 * 2015-08-01
 * Initial release. No known issues.
 

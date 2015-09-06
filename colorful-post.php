@@ -1,11 +1,11 @@
 <?php
 /*
 Plugin Name: Colorful Post
-Plugin URI: http://anylookup.com
-Description: Description for plugin Colorful Posts
-Version: 1.0.0
-Author: anylookup.com
-Author URI: http://anylookup.com/
+Plugin URI: http://psd.to-html.com
+Description: A simple 'post title color' plugin that lets you select the color of your post title manually.
+Version: 1.0.1
+Author: Jason Zhao
+Author URI: http://psd.to-html.com
 */
 
 
