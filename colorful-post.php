@@ -3,7 +3,7 @@
 Plugin Name: Colorful Post
 Plugin URI: http://psd.to-html.com
 Description: A simple 'post title color' plugin that lets you select the color of your post title manually.
-Version: 1.0.1
+Version: 1.0.3
 Author: Jason Zhao
 Author URI: http://psd.to-html.com
 */
