@@ -4,7 +4,7 @@ Donate link: http://psd.to-html.com
 Tags: post, posts, plugin, widget, admin, colorful posts, color title, title, post title
 Requires at least: 3.3
 Tested up to: 4.3
-Stable tag: 1.0.1
+Stable tag: 1.0.3
 License: GPLv2 or later
 
 A simple 'post title color' plugin that lets you select the color of your post title manually.
@@ -41,6 +41,10 @@ It's just under the post title in post editor
 
 
 == Changelog ==
+= 1.0.3 =
+* 2015-10-14
+* Fix version issue
+
 = 1.0.2 =
 * 2015-09-05
 * Updated readme text
